@@ -1,2 +1,0 @@
-# MaterialUIReact
-Created with CodeSandbox
